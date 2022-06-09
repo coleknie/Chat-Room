@@ -4,6 +4,6 @@ A GUI-based client and server that implements a chat room
 
 Examples of how to run code:
 
-java GwackChannel port
+java GwackChannel [port]
 
 java GwackCliengGUI
